@@ -1,0 +1,48 @@
+{
+  "identifier" : "721FB4CF",
+  "nonRenewingSubscriptions" : [
+
+  ],
+  "products" : [
+    {
+      "displayPrice" : "1.99",
+      "familyShareable" : false,
+      "internalID" : "73566D50",
+      "localizations" : [
+        {
+          "description" : "Thank you! I really appreciate your support!",
+          "displayName" : "Coffee",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "scrollType.pro",
+      "referenceName" : "scrollTypePro",
+      "type" : "Consumable"
+    },
+    {
+      "displayPrice" : "1.99",
+      "familyShareable" : false,
+      "internalID" : "998AAF3D",
+      "localizations" : [
+        {
+          "description" : "Thank you! I really appreciate your support!",
+          "displayName" : "Coffee",
+          "locale" : "en_US"
+        }
+      ],
+      "productID" : "scrollType.coffee",
+      "referenceName" : "coffee",
+      "type" : "Consumable"
+    }
+  ],
+  "settings" : {
+
+  },
+  "subscriptionGroups" : [
+
+  ],
+  "version" : {
+    "major" : 1,
+    "minor" : 2
+  }
+}
